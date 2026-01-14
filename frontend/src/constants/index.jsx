@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:5000/api/v1.0/moviebooking";
+export const BASE_URL = "https://movie-booking-backend-k7np.onrender.com/api/v1.0/moviebooking";
